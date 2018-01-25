@@ -8,4 +8,6 @@ import layout from 'waterfall-layout'
 layout(items, options = {}) // => { grids, containerHeight }
 ```
 
-Options for layouting are listed in [sample](example/index.js)
+Options for layouting are listed in [sample](example/index.js#L5-L22)
+
+![Diagram-of-options](assets/Diagram-of-options.jpg)
