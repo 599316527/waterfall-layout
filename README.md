@@ -1,2 +1,11 @@
-# waterfall-layout
+# Waterfall Layout
+
 Calculate width &amp; position for items of waterfall
+
+```js
+import layout from 'waterfall-layout'
+
+layout(items, options = {}) => { grids, containerHeight }
+```
+
+Options for layouting is listed in [sample](example/index.js)

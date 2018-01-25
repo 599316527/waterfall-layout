@@ -1,0 +1,22 @@
+{
+  "name": "waterfall-layout",
+  "version": "1.0.0",
+  "description": "Calculate width & position for items of waterfall",
+  "main": "lib/index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/599316527/waterfall-layout.git"
+  },
+  "author": "Kyle <ohyes@hk1229.cn>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/599316527/waterfall-layout/issues"
+  },
+  "homepage": "https://github.com/599316527/waterfall-layout#readme",
+  "dependencies": {
+    "lodash": "^4.17.4"
+  }
+}
